@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohanjha04 and I am a begineer
-- 👀 I’m interested in web development/andriod development
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in AI-ML
+- 🌱 I’m currently learning Python/C++
 - 📫 How to reach me rohan.dharmendra.jha@gmail.com
 
 <!---
