@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohanjha04 and I am a begineer
+- 👋 Hi, I’m @rohanjha04
 - 👀 I’m interested in AI-ML
 - 🌱 I’m currently learning Python/C++
 - 📫 How to reach me rohan.dharmendra.jha@gmail.com
